@@ -1,4 +1,4 @@
-Student Attendance Managment System
+#Student Attendance Managment System
 
 This project aims to develop a comprehensive digital system for managing student attendance and teacher administration within educational institutions. 
 The system provides secure login functionalities for both administrators and teachers, allowing them access to respective dashboards tailored to their roles and responsibilities.
