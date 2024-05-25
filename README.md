@@ -4,6 +4,7 @@ This project aims to develop a comprehensive digital system for managing student
 The system provides secure login functionalities for both administrators and teachers, allowing them access to respective dashboards tailored to their roles and responsibilities.
 
 User Requirements:
+
 Administrator Functionality:
 - Removing Student Records: Administrators can delete all records of a specific student when the student no longer has an affiliation with the school.
 - Replacing Teacher Records: Administrators have the ability to update or replace a teacher's records with new ones when the old teacher is no longer affiliated with the school.
